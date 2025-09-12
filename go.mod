@@ -1,4 +1,4 @@
-module github.com/Stepanbri/stag.go
+module github.com/stepanbri/stag.go¨
 
 go 1.25.1
 
